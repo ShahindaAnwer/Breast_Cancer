@@ -1,4 +1,4 @@
-# Breast-Cancer Project
+# Breast Cancer Project
 Classifying whether or not a person has breast cancer
 
 ### Libraries
